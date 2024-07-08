@@ -1,0 +1,7 @@
+[
+    {"id": 1, "title": "Article 1", "categories": ["Tech", "AI"]},
+    {"id": 2, "title": "Article 2", "categories": ["Health", "Wellness"]},
+    {"id": 3, "title": "Article 3", "categories": ["Tech", "AI"]},
+    {"id": 4, "title": "Article 4", "categories": ["Tech", "Robotics"]},
+    {"id": 5, "title": "Article 5", "categories": ["Health", "AI"]}
+]
